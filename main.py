@@ -358,4 +358,4 @@ async def on_member_join(member):
 
 
 
-bot.run ("OTMzNzczMDk5OTE5MzQzNjU2.YemZ9w.cWyLQZXPOZEjP-xqwy55vEmgsVM")
+bot.run ("OTMzNzczMDk5OTE5MzQzNjU2.YemZ9w.TYVxjVWm3EwL8xC6XlMx8fRGpho")
